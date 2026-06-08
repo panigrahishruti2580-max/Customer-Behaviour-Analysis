@@ -46,3 +46,23 @@ Create interactive dashboard in Power BI
 4. Create Project Report and Presentation
 
 Create project report
+# Live Dashboard
+https://panigrahishruti2580-max.github.io/Customer-Behaviour-Analysis/
+## Power BI Dashboard
+
+The Power BI dashboard provides interactive business intelligence reports and visualizations, including:
+
+- Total Customers
+- Average Purchase Amount
+- Average Review Rating
+- Revenue by Product Category
+- Sales by Category
+- Revenue by Age Group
+- Sales by Age Group
+- Customer Subscription Analysis
+
+### Key Insights
+- Identified the highest revenue-generating product categories.
+- Analyzed purchasing behavior across different age groups.
+- Compared subscription and non-subscription customer segments.
+- Evaluated customer satisfaction through review ratings.
